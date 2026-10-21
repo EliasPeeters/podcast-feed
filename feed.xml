@@ -5,6 +5,8 @@
     <link>https://eliaspeeters.github.io/podcast-feed/</link>
     <language>de</language>
     <description>Hörfolgen zu Elias&#x27; Promotion in medizinischer Bildverarbeitung.</description>
+    <itunes:image href="https://eliaspeeters.github.io/podcast-feed/cover.jpg"/>
+    <image><url>https://eliaspeeters.github.io/podcast-feed/cover.jpg</url><title>Elias lernt: Promotion</title><link>https://eliaspeeters.github.io/podcast-feed/</link></image>
     <itunes:author>Elias Peeters</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
