@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Elias lernt: Promotion</title>
+    <link>https://eliaspeeters.github.io/podcast-feed/</link>
+    <language>de</language>
+    <description>Hörfolgen zu Elias&#x27; Promotion in medizinischer Bildverarbeitung.</description>
+    <itunes:author>Elias Peeters</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>yes</itunes:block>
+    <item>
+      <title>Folge 1: Das Problem und die Landkarte</title>
+      <description>Folge 1: Das Problem und die Landkarte</description>
+      <guid isPermaLink="false">01_problem-und-landkarte.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:13:47 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/01_problem-und-landkarte.mp3" length="12627164" type="audio/mpeg"/>
+      <itunes:duration>0:22:42</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 2: Was Annotation kostet und wie gut sie ist</title>
+      <description>Folge 2: Was Annotation kostet und wie gut sie ist</description>
+      <guid isPermaLink="false">02_annotationskosten.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:20:13 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/02_annotationskosten.mp3" length="13085516" type="audio/mpeg"/>
+      <itunes:duration>0:23:27</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 3: Vorwissen und Foundation Models – der stärkste Hebel gegen Labelmangel</title>
+      <description>Folge 3: Vorwissen und Foundation Models – der stärkste Hebel gegen Labelmangel</description>
+      <guid isPermaLink="false">03_vorwissen-foundation-models.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:27:28 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/03_vorwissen-foundation-models.mp3" length="13942988" type="audio/mpeg"/>
+      <itunes:duration>0:25:00</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 4: Active Learning – welche Zellen soll der Experte beschriften?</title>
+      <description>Folge 4: Active Learning – welche Zellen soll der Experte beschriften?</description>
+      <guid isPermaLink="false">04_active-learning.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:33:29 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/04_active-learning.mp3" length="12809420" type="audio/mpeg"/>
+      <itunes:duration>0:22:49</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 5: Modellgestützte Annotation – wie viel Zeit spart ein Vorschlag wirklich?</title>
+      <description>Folge 5: Modellgestützte Annotation – wie viel Zeit spart ein Vorschlag wirklich?</description>
+      <guid isPermaLink="false">05_modellgestuetzte-annotation.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:14:10 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/05_modellgestuetzte-annotation.mp3" length="13076756" type="audio/mpeg"/>
+      <itunes:duration>0:23:33</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 6: Label-Ersatz – Laien, Texte, Sprachmodelle, synthetische Zellen</title>
+      <description>Folge 6: Label-Ersatz – Laien, Texte, Sprachmodelle, synthetische Zellen</description>
+      <guid isPermaLink="false">06_label-ersatz.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:20:48 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/06_label-ersatz.mp3" length="13447100" type="audio/mpeg"/>
+      <itunes:duration>0:24:21</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 7: Aufwandsarme Evaluation – Prüfen mit wenigen Expertenlabels</title>
+      <description>Folge 7: Aufwandsarme Evaluation – Prüfen mit wenigen Expertenlabels</description>
+      <guid isPermaLink="false">07_aufwandsarme-evaluation.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:39:43 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/07_aufwandsarme-evaluation.mp3" length="12559916" type="audio/mpeg"/>
+      <itunes:duration>0:22:37</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 8: Gerätewechsel und Domänenanpassung – Wie viele Labels braucht ein neues Mikroskop?</title>
+      <description>Folge 8: Gerätewechsel und Domänenanpassung – Wie viele Labels braucht ein neues Mikroskop?</description>
+      <guid isPermaLink="false">08_geraetewechsel-domaenenanpassung.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:45:57 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/08_geraetewechsel-domaenenanpassung.mp3" length="12647684" type="audio/mpeg"/>
+      <itunes:duration>0:22:42</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 9: Ungewöhnliche Daten und methodische Fallstricke</title>
+      <description>Folge 9: Ungewöhnliche Daten und methodische Fallstricke</description>
+      <guid isPermaLink="false">09_ungewoehnliche-daten-und-fallstricke.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:52:54 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/09_ungewoehnliche-daten-und-fallstricke.mp3" length="14297876" type="audio/mpeg"/>
+      <itunes:duration>0:25:38</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 10: Hämatologie in der Praxis – Verifikation, unsichere Labels, Gerätewechsel</title>
+      <description>Folge 10: Hämatologie in der Praxis – Verifikation, unsichere Labels, Gerätewechsel</description>
+      <guid isPermaLink="false">10_haematologie-praxis.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:59:16 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/10_haematologie-praxis.mp3" length="12941324" type="audio/mpeg"/>
+      <itunes:duration>0:23:15</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 11: Die eigene Fallstudie – wo der Engpass wirklich liegt</title>
+      <description>Folge 11: Die eigene Fallstudie – wo der Engpass wirklich liegt</description>
+      <guid isPermaLink="false">11_eigene-fallstudie.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 14:05:39 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/11_eigene-fallstudie.mp3" length="12827828" type="audio/mpeg"/>
+      <itunes:duration>0:23:05</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Folge 12: Lücken und Exposé – wo ein Beitrag möglich ist</title>
+      <description>Folge 12: Lücken und Exposé – wo ein Beitrag möglich ist</description>
+      <guid isPermaLink="false">12_luecken-und-expose.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 14:12:48 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/12_luecken-und-expose.mp3" length="13807964" type="audio/mpeg"/>
+      <itunes:duration>0:24:47</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
