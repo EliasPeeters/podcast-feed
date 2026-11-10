@@ -131,5 +131,15 @@
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Folge 13: Leukämie, Blutzellen und Blasten – was in unserem Datensatz passiert</title>
+      <description>Folge 13: Leukämie, Blutzellen und Blasten – was in unserem Datensatz passiert</description>
+      <guid isPermaLink="false">13_leukaemie-und-blasten.mp3</guid>
+      <pubDate>Tue, 10 Nov 2026 15:21:16 GMT</pubDate>
+      <enclosure url="https://eliaspeeters.github.io/podcast-feed/episoden/13_leukaemie-und-blasten.mp3" length="12054476" type="audio/mpeg"/>
+      <itunes:duration>0:21:53</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
